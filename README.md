@@ -28,7 +28,7 @@ Cada contato possui os seguintes atributos:
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/viniciuscosta12/ListaTelefonica.git
+    git clone https://github.com/viniciuscosta12/ListadeContatos.git
     ```
 
 2. Abra o projeto no Android Studio.
